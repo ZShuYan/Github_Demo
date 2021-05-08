@@ -49,7 +49,7 @@
 									<td>操作</td>
 									
 								</tr>
-								<c:forEach items="${houselists}" var="houselist">
+								<c:forEach items="${houselist}" var="houselist">
 								
 									<tr
 										style="FONT-WEIGHT: normal; FONT-STYLE: normal; BACKGROUND-COLOR: white; TEXT-DECORATION: none">
